@@ -1,0 +1,12 @@
+body
+{
+	background: linear-gradient(white,green);
+	font-family: arial;
+}
+
+
+.errorMsg
+{
+	color: red;
+}
+
